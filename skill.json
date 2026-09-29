@@ -1,0 +1,20 @@
+{
+  "name": "genpark-vector-similarity-exact-and-topk-heap-selector-skill",
+  "version": "1.0.0",
+  "description": "Bounded Min-Heap Top-K cosine similarity and Euclidean distance selector for vector retrieval",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "topk-heap",
+    "cosine-similarity",
+    "euclidean-distance",
+    "heap-selector",
+    "bounded-minheap",
+    "python-standard-library",
+    "agent-skills",
+    "ranking",
+    "vector-search",
+    "developer-tools"
+  ]
+}
